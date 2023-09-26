@@ -8,7 +8,7 @@ namespace webtest
             int i = 1;
             bool result = false;
             if (i==1) { result= true; }
-            Assert.True(result,"value should be equal to 1");    
+            Assert.True(result,"value should be equal to 1.");    
         }
     }
 }
